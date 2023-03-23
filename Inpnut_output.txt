@@ -1,7 +1,0 @@
-Input:
-123
-
-Output:
-ev sqsum is4
-odd cubesum is28
-7 (cubesum/sqsum)
